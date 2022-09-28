@@ -59,29 +59,6 @@ section{
     width: 100px;
 }
 
-#correo{
-    float: left;
-    margin-left: 180px;
-    height: 20px;
-    padding-top: 10px;
-    width: 300px;
-    color:white;
-    border-radius: 10px;
-    background-color: #245970;
-    text-align: center;
-    margin-bottom: 20px;
-}
 
-#celular{
-    float: right;
-    margin-right: 180px;
-    height: 20px;
-    padding-top: 10px;
-    width: 300px;
-    border-radius: 10px;
-    background-color: #245970;
-    text-align: center;
-    color: white;
-}
 
 
